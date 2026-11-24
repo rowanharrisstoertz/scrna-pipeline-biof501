@@ -110,7 +110,9 @@ Ensure that the following are installed:
 
 ### 1: Clone the repository
 
-Clone the Git repository. 
+Clone the Git repository:
+
+```git clone <https://github.com/rowanharrisstoertz/scrna-pipeline-biof501.git>```
 
 Navigate to the project directory by running the following command with Bash:
 

@@ -1,0 +1,472 @@
+cell_type,gene
+Epithelial cell,ETFA
+Epithelial cell,PIP
+Luminal epithelial cell,FLOT2
+Myoepithelial cell,SMN1
+Luminal epithelial cell,ETFA
+Progenitor cell,CD44
+Progenitor cell,CD24
+Cancer stem cell,ALDH1A1
+Cancer stem cell,PROM1
+Cancer stem cell,FLOT2
+Cancer stem cell,PROCR
+Progenitor cell,ITGB1
+Progenitor cell,ITGA6
+Cancer stem cell,CD44
+Cancer stem cell,VEGFA
+Cancer stem cell,CD24
+Myoepithelial cell,ITGB1
+Myoepithelial cell,CD44
+Cancer stem cell,ITGA6
+Luminal progenitor cell,ITGA6
+Luminal progenitor cell,CD44
+Luminal progenitor cell,CD24
+Cancer stem cell,SOX2
+Cancer stem cell,POU5F1
+Cancer stem cell,CD34
+Cancer stem cell,NANOG
+Cancer stem cell,LGR5
+Epithelial cell,ALCAM
+Epithelial cell,KIT
+Myoepithelial cell,MME
+Cancer stem cell,ALDH1A3
+Cancer stem cell,FUT4
+Cancer stem cell,MME
+Cancer stem cell,GLI1
+Cancer stem cell,KDM1A
+Natural killer cell,NCAM1
+Epithelial cell,SMN1
+Luminal epithelial cell,SYTL2
+Luminal progenitor cell,SLPI
+Luminal progenitor cell,PROM1
+Luminal epithelial cell,ANKRD30A
+Luminal progenitor cell,KRT19
+Endothelial cell,PECAM1
+Epithelial cell,CHKA
+Cytotoxic T cell,IL2RA
+Cancer stem cell,BMI1
+Epithelial cell,ZEB1
+Mesenchymal cell,VIM
+Epithelial cell,CDH1
+Epithelial cell,CXADR
+Epithelial cell,CLDN12
+Cancer cell,ITK
+Epithelial cell,TJP1
+B cell,MS4A1
+Mesenchymal cell,ZEB1
+Mesenchymal cell,SNAI1
+Epithelial cell,SDC1
+Epithelial cell,OCLN
+Epithelial cell,EPCAM
+Mesenchymal cell,ZEB2
+Mesenchymal cell,FN1
+Mesenchymal cell,CDH2
+Mesenchymal cell,ETS1
+Myoepithelial cell,KRT14
+Tumor‐associated macrophage (TAM),SIGLEC1
+Tumor‐associated macrophage (TAM),CD163
+Regulatory T(Treg) cell,FOXP3
+Mesenchymal cell,THY1
+Mesenchymal cell,CD44
+Macrophage,CD68
+Mesenchymal cell,EGFR
+Mesenchymal cell,PTK2
+Cancer cell,ARHGAP10
+Cancer cell,EDNRA
+Epithelial cell,KRT8
+Cancer stem cell,VIM
+Epithelial cell,KRT18
+Epithelial cell,ALDH1A3
+Cancer stem cell,THY1
+Cancer stem cell,SOX9
+Basal cell,KRT14
+Epithelial cell,KRT14
+Cancer cell,SELP
+Cancer cell,TLL1
+Cancer cell,SEMA6A
+Cancer cell,CDH5
+Cancer cell,CPNE1
+Cancer cell,TPST2
+Cancer cell,CRYBB2
+Cancer cell,SULF2
+Cancer cell,KLRF1
+Cancer cell,SELE
+Cancer cell,ALPI
+Cancer cell,FAM177A1
+Cancer cell,ADH1B
+Cancer cell,AKR1A1
+Cancer cell,CAMK1D
+Cancer cell,CHST15
+Cancer cell,GOLM1
+Cancer cell,ISLR2
+Cancer cell,CD36
+Cancer cell,PRDM1
+Cancer cell,B3GNT2
+Cancer cell,TMPRSS11D
+Cancer cell,STOM
+Cancer cell,TNS2
+Cancer cell,MET
+Cancer cell,VCAM1
+Cancer cell,JAG1
+Cancer cell,THSD1
+Cancer cell,PSD
+Cancer cell,IL3RA
+Cancer cell,KIN
+Cancer cell,BCAM
+Cancer cell,C1GALT1C1
+Cancer cell,ENG
+Cancer cell,RSPO3
+Cancer cell,DOCK9
+Cancer cell,NOTCH1
+M2 macrophage,CCL3
+M2 macrophage,MARCO
+M2 macrophage,NRP2
+M2 macrophage,CD276
+Stem cell,CD44
+Cancer cell,KRT18
+Cancer cell,KRT7
+Cancer cell,EPCAM
+Cancer cell,ERBB2
+Macrophage,ITGAM
+T cell,CD4
+Monocyte,CD33
+Macrophage,VIM
+Endothelial cell,CDH5
+Endothelial cell,SERPINH1
+Cytotoxic T cell,CD3E
+B cell,CD19
+Macrophage,PTPRC
+Cytotoxic T cell,PRF1
+Cytotoxic T cell,CD2
+B cell,LAPTM5
+Cancer cell,KRT19
+Macrophage,CD4
+B cell,PTPRC
+Endothelial cell,VIM
+T cell,PTPRC
+Monocyte,CD14
+Plasma cell,IGHG1
+B cell,IGKC
+Plasma cell,SDC1
+Cytotoxic T cell,VIM
+Plasma cell,LAPTM5
+Endothelial cell,VWF
+Macrophage,FCGR3A
+Monocyte,CD4
+T cell,CD2
+Cytotoxic T cell,NKG7
+T cell,LAPTM5
+Cancer cell,KRT8
+B cell,VIM
+Plasma cell,PTPRC
+Endothelial cell,CLEC14A
+Endothelial cell,EMCN
+Cytotoxic T cell,CD3D
+Plasma cell,IGKC
+Cytotoxic T cell,LAPTM5
+Macrophage,CD14
+Plasma cell,VIM
+B cell,CD79A
+Monocyte,ITGAM
+Endothelial cell,IL3RA
+B cell,BANK1
+Cancer cell,ESR1
+T cell,VIM
+Macrophage,LYZ
+Plasma cell,CD79A
+Cytotoxic T cell,PTPRC
+Macrophage,ITGAX
+Monocyte,PTPRC
+Monocyte,ITGAX
+T cell,CD28
+Macrophage,LAPTM5
+Monocyte,FCGR3A
+Cytotoxic T cell,CD3G
+Cytotoxic T cell,GZMB
+Plasma cell,IGHG2
+Cytotoxic T cell,CD28
+Monocyte,LYZ
+T cell,CD3G
+T cell,CD3D
+T cell,CD3E
+Monocyte,LAPTM5
+Macrophage,CD33
+Cytotoxic T cell,CD8A
+Monocyte,VIM
+Cytotoxic T cell,GZMA
+CD8+ T cell,CD8A
+Mesenchymal cell,TIMP1
+Mesenchymal cell,TGFB1
+Mesenchymal cell,FBN1
+Mesenchymal cell,PLAT
+Mesenchymal cell,TGFBR2
+Mesenchymal cell,SPARC
+Mesenchymal cell,CTSC
+Stem cell,POU5F1
+Stem cell,NANOG
+Stem cell,KLF4
+CD8+ T cell,HLA-E
+CD8+ T cell,CXCL10
+CD8+ T cell,IDO1
+CD8+ T cell,HLA-DRA
+CD8+ T cell,CXCL9
+CD8+ T cell,STAT1
+CD8+ T cell,GZMB
+Luminal progenitor cell,KRT5
+Mesenchymal cell,FBLN5
+Mesenchymal cell,MMP2
+Cancer cell,BRCA1
+Cancer cell,BRCA2
+Macrophage,CD209
+Mesenchymal cell,CD248
+Macrophage,CDH5
+Mesenchymal cell,CD59
+Stem cell,CDH5
+M2 macrophage,CD163
+T cell,CD8A
+T cell,FOXP3
+T cell,CD5
+M2 macrophage,MERTK
+M2 macrophage,ARG1
+M2 macrophage,MRC1
+Cancer cell,PDCD1
+Cancer cell,VIM
+Cancer stem cell,MYC
+Stem cell,LGR6
+CD8+ T cell,GZMH
+Cancer cell,MKI67
+Natural killer cell,XCL1
+Epithelial cell,ACTA2
+Fibroblast,PDGFRB
+Fibroblast,COL1A1
+Fibroblast,S100A4
+Natural killer cell,GNLY
+Natural killer cell,KLRD1
+Epithelial cell,ESR1
+Plasma cell,JCHAIN
+Fibroblast,ITGB1
+Myeloid cell,CD68
+Fibroblast,THY1
+Epithelial cell,KRT5
+Natural killer cell,NCR1
+Regulatory T(Treg) cell,BATF
+Stem cell,ITGB3
+Stem cell,THY1
+Stem cell,ITGA6
+Stem cell,CD70
+Stem cell,LGR5
+Stem cell,CD24
+Stem cell,CXCR4
+Stem cell,ITGB1
+Stem cell,PROM1
+Stem cell,ALDH1A1
+Stem cell,ID2
+Stem cell,EGFR
+Cancer stem cell,ERBB2
+Tumor‐associated macrophage (TAM),APOE
+Tumor‐associated macrophage (TAM),MARCO
+Tumor‐associated macrophage (TAM),TREM2
+Cancer cell,TRPS1
+Cancer cell,PIP
+Cancer cell,NKX2-1
+Cancer cell,GATA3
+Cancer cell,EREG
+Myoepithelial cell,RPE65
+Natural killer cell,KLRF1
+Natural killer cell,KLRC1
+Cancer stem cell,ITGB3
+Cancer stem cell,CXCR4
+Cancer stem cell,KIT
+Cancer stem cell,ITGB1
+Cancer stem cell,CD200
+Cancer stem cell,ABCG2
+Tumor‐associated macrophage (TAM),PLOD2
+Tumor‐associated macrophage (TAM),LOX
+B cell,CD74
+B cell,CD40
+Cancer stem cell,ALCAM
+Tumor‐associated macrophage (TAM),CCL2
+Regulatory T(Treg) cell,TGFB1
+Tumor‐associated macrophage (TAM),IL10
+Natural killer cell,KIR3DL2
+Tumor‐associated macrophage (TAM),CD68
+Natural killer cell,KIR2DS4
+Regulatory T(Treg) cell,STAT5B
+Natural killer cell,KIR3DL1
+Natural killer cell,KIR2DL1
+Natural killer cell,KIR3DL3
+Regulatory T(Treg) cell,CCR8
+Natural killer cell,KIR2DL4
+Natural killer cell,KIR2DL3
+Cancer cell,CYP3A4
+Cancer cell,CYP3A5
+Cancer cell,CYP3A7
+Mesenchymal cell,TWIST1
+Regulatory T(Treg) cell,LAYN
+Regulatory T(Treg) cell,MAGEH1
+Regulatory T(Treg) cell,IL2RA
+Luminal progenitor cell,KIT
+Luminal progenitor cell,ALDH1A3
+Mature luminal cell,ANKRD30A
+Mature luminal cell,ESR1
+Mature luminal cell,AGR2
+Fibroblast,DCN
+Mature luminal cell,FOXA1
+Luminal progenitor cell,GABRP
+Macrophage,CSF1
+Mesenchymal cell,MSN
+B cell,IGHD
+B cell,CD38
+B cell,IGHM
+B cell,CD27
+B cell,CD14
+Perivascular cell,THY1
+Perivascular cell,CAV1
+Perivascular cell,ACTA2
+Perivascular cell,TAGLN
+Perivascular cell,PDGFRB
+Perivascular cell,ITGB1
+Perivascular cell,RGS5
+Perivascular cell,MCAM
+Perivascular cell,S100A4
+Perivascular cell,MYH11
+Mesenchymal cell,FAP
+Epithelial cell,S100A9
+Tumor‐associated macrophage (TAM),SETMAR
+Fibroblast,POSTN
+Endothelial cell,CD36
+Luminal progenitor cell,TNFRSF11A
+Basal cell,MYLK
+Basal cell,ACTA2
+Mature luminal cell,PGR
+Natural killer cell,NKG7
+Basal cell,SNAI2
+Endothelial cell,CD34
+Basal cell,KRT5
+Fibroblast,PDGFRA
+Myeloid cell,CD14
+Tumor‐associated macrophage (TAM),MRC1
+Tumor‐associated macrophage (TAM),CX3CR1
+Stem cell,ALDH1A2
+Stem cell,ALDH1A3
+Stem cell,ALDH1B1
+Stem cell,ALDH2
+Natural killer cell,KLRB1
+Myeloid cell,FCGR3A
+Myeloid cell,CD1C
+Myeloid cell,CD86
+Myeloid cell,IL7R
+Myeloid cell,ITGA6
+Cancer-associated fibroblast,PDGFRA
+Cancer-associated fibroblast,ACTA2
+Cancer-associated fibroblast,PDPN
+Myeloid cell,CD274
+Cancer-associated fibroblast,COL1A1
+Mesenchymal cell,PDGFRB
+Myeloid cell,THBD
+Stem cell,LEPR
+Cancer-associated fibroblast,PDGFRB
+Cancer stem cell,EPCAM
+Fibroblast,TAGLN
+Basal cell,CD24
+Cancer stem cell,PGR
+Cancer stem cell,ALDH6A1
+Macrophage,MSR1
+Natural killer cell,CD3G
+Fibroblast,ACTA2
+Basal cell,ESR1
+Regulatory T(Treg) cell,CD3G
+Natural killer cell,CCR7
+Plasma cell,IGHG4
+Fibroblast,COL1A2
+Regulatory T(Treg) cell,CD3D
+Regulatory T(Treg) cell,KLRB1
+Basal cell,KIT
+Natural killer cell,CD3D
+Regulatory T(Treg) cell,CCR7
+Endothelial cell,MCAM
+Natural killer cell,CD8A
+Macrophage,CD86
+Basal cell,PGR
+Cancer stem cell,ESR1
+Cancer stem cell,ALDH2
+Macrophage,CD163
+M2 macrophage,CXCL10
+T cell,IFIT1
+Basal cell,KRT17
+T cell,CCL5
+T cell,CD7
+B cell,IGLL5
+Luminal epithelial cell,MKI67
+Luminal epithelial cell,KRT15
+Luminal epithelial cell,KRT23
+Luminal epithelial cell,KRT81
+Luminal epithelial cell,ESR1
+Luminal epithelial cell,EPCAM
+B cell,IGLL1
+Luminal epithelial cell,CD24
+Luminal epithelial cell,MUC1
+Macrophage,HLA-DPA1
+Macrophage,IL1B
+B cell,JCHAIN
+T cell,CFD
+Macrophage,CSF1R
+T cell,GZMK
+Luminal epithelial cell,ERBB2
+Macrophage,CD74
+Macrophage,CLEC5A
+Luminal epithelial cell,AR
+Luminal epithelial cell,CDH1
+Luminal epithelial cell,CD44
+Luminal epithelial cell,PGR
+B cell,SSR4
+Stem cell,ABCG2
+Stem cell,LGR4
+Stem cell,MET
+Cancer-associated fibroblast,FAP
+Cancer-associated fibroblast,THY1
+Fibroblast,KRT19
+Fibroblast,KRT8
+Exhausted CD8+ T cell,HLA-DRB1
+Exhausted CD8+ T cell,ENTPD1
+Exhausted CD8+ T cell,KRT86
+Exhausted CD8+ T cell,LY6E
+Exhausted CD8+ T cell,IFI6
+Exhausted CD8+ T cell,IFI27
+Exhausted CD8+ T cell,HLA-DQA2
+Exhausted CD8+ T cell,IFI44
+Exhausted CD8+ T cell,OAS1
+Exhausted CD8+ T cell,PRF1
+Exhausted CD8+ T cell,HAVCR2
+Exhausted CD8+ T cell,CXCL13
+Exhausted CD8+ T cell,HLA-DRB5
+Exhausted CD8+ T cell,HLA-DRA
+Exhausted CD8+ T cell,ALOX5AP
+Exhausted CD8+ T cell,MX1
+Exhausted CD8+ T cell,GZMB
+Exhausted CD8+ T cell,ISG15
+Exhausted CD8+ T cell,CD82
+Exhausted CD8+ T cell,IFIT3
+Exhausted CD8+ T cell,IFITM3
+Exhausted CD8+ T cell,BST2
+Exhausted CD8+ T cell,GNLY
+Exhausted CD8+ T cell,IFI44L
+Exhausted CD8+ T cell,CCL3
+Mesenchymal cell,MCAM
+Epithelial cell,MCAM
+Mesenchymal cell,ECM1
+Cancer cell,STAT1
+Cancer cell,RIC8A
+Cancer cell,IRF9
+Cancer cell,ISG15
+Cancer cell,STAT2
+Cancer cell,JAK1
+Cancer cell,CDH1
+Luminal progenitor cell,EZH2
+Cancer cell,CTNNA1
+Cancer cell,GNA13
+Cancer cell,OAS1
+Monocyte,S100A9
+Monocyte,VCAN
+Monocyte,S100A8
+Monocyte,S100A12

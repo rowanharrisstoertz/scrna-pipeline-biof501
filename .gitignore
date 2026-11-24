@@ -1,0 +1,7 @@
+# Nextflow execution files
+.nextflow/
+.nextflow.log*
+work/
+
+# Temporary files
+*.tmp

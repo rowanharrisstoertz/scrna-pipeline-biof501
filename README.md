@@ -2,19 +2,14 @@
 
 ## Project Background
 
-Breast cancer 
+Many cells contain distinct populations within the same tissue, such as cell types or cell states. Different cell populations can have distinct characteristics, so identifying them is important to understanding cell function. Cell heterogeneity is particularly important in cancer, as cancer cells often have particularly high heterogeneity. Identifying different subpopulations within a tumor can aid in understanding how the tumor behaves and identifying treatment-resistant or aggressive cells. 
 
-This project contains a reproducible pipeline for investigating cell types and clustering using single-cell RNA sequencing (scRNA-seq). 
+Since bulk RNA sequencing measures gene expression across a mixture of cells, it misses differences between individual cells. Single-cell RNA sequencing addresses this by measuring the gene expression of individual cells. This allows researchers to investigate differences between cell populations. 
 
-By default, this analysis uses a publicly available 10X Genomics scRNA-seq dataset from an HR+/HER2- breast tumor sample (BC_05) from the Gene Expression Omnibus, under accession number GSE228499. 
+The goal of this project is to provide a reproducible pipeline for investigating cell types and clustering using single-cell RNA sequencing. The pipeline performs quality control and filtering of the data, normalizes and scales the data, clusters the cells, identifies marker genes associated with each cluster, and predicts the cell type of each cluster. 
 
-Single-cell RNA sequencing data is well-suited to studying 
+By default, this analysis uses a publicly available 10X Genomics scRNA-seq dataset from a breast tumor sample from the Gene Expression Omnibus, under accession number GSE228499, with the goal of identifying transcriptionally distinct cell clusters within the sample, the cell type of those clusters, and the genes that characterize those clusters. 
 
-The goal of this pipeline is to provide a reproducible workflow for 
-
-Primary research question: What cell types 
-
-What cell types are 
 
 ## Pipeline Design and Rationale
 

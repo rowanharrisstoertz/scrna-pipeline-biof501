@@ -112,7 +112,7 @@ Ensure that the following are installed:
 
 Clone the Git repository:
 
-```git clone <https://github.com/rowanharrisstoertz/scrna-pipeline-biof501.git>```
+```git clone https://github.com/rowanharrisstoertz/scrna-pipeline-biof501.git```
 
 Navigate to the project directory by running the following command with Bash:
 

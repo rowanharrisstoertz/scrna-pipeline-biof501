@@ -2,6 +2,7 @@
 .nextflow/
 .nextflow.log*
 work/
+results/
 
 # Temporary files
 *.tmp

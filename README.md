@@ -259,3 +259,9 @@ cancer-scrna-pipeline
     ├── preprocessing.R
     └── reporting.R
 ```
+
+## AI Use
+
+The following AI models were used in the creation of this pipeline:
+- VS Code AI (powered by GitHub Copilot): used primarily for adding comments and logging statements
+- ChatGPT: used for assistance with debugging

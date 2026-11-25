@@ -4,7 +4,7 @@
 
 Many cells contain distinct populations within the same tissue, such as cell types or cell states. Different cell populations can have distinct characteristics, so identifying them is important to understanding cell function. Cell heterogeneity is particularly important in cancer, as cancer cells often have particularly high heterogeneity. Identifying different subpopulations within a tumor can aid in understanding how the tumor behaves and identifying treatment-resistant or aggressive cells. 
 
-Since bulk RNA sequencing measures gene expression across a mixture of cells, it misses differences between individual cells. Single-cell RNA sequencing addresses this by measuring the gene expression of individual cells. This allows researchers to investigate differences between cell populations. 
+Since bulk RNA sequencing measures gene expression across a mixture of cells, it misses differences between individual cells. Single-cell RNA sequencing addresses this by measuring the gene expression of individual cells. This allows researchers to investigate differences between cell populations, but clustering cells into populations, identifying cell types, and identifying gene markers for the different clusters is necessary to interpret the data. 
 
 The goal of this project is to provide a reproducible pipeline for investigating cell types and clustering using single-cell RNA sequencing. The pipeline performs quality control and filtering of the data, normalizes and scales the data, clusters the cells, identifies marker genes associated with each cluster, and predicts the cell type of each cluster. 
 
@@ -77,7 +77,7 @@ The data consists of 3 files in the [Cell Ranger Feature Barcode Matrices MEX Fo
 - `features.tsv.gz`: genes/features
 - `matrix.mtx.gz`: sparse count matrix
 
-The data contains 2145 cells after filtering with the default quality control parameters of this pipeline. 
+The data contains 2389 cells before filtering, and 2145 cells after filtering with the default quality control parameters of this pipeline. 
 
 The data is included in the GitHub repository in `data/raw/BC_05`.
 

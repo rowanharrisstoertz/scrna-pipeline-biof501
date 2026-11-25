@@ -108,13 +108,17 @@ Ensure that the following are installed:
 - Conda: [Installation instructions](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 - Git (to clone the repository): [Installation instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+Note: Bash (version 3.2 or later) is required to run Nextflow. If using Windows, use WSL2 and Ubuntu, which can be installed by running the following command in PowerShell: 
+
+```wsl --install```
+
 ### 1: Clone the repository
 
-Clone the Git repository:
+Clone the Git repository by running the following command with Bash:
 
 ```git clone https://github.com/rowanharrisstoertz/scrna-pipeline-biof501.git```
 
-Navigate to the project directory by running the following command with Bash:
+Navigate to the project directory:
 
 ```cd cancer-scrna-pipeline```
 
